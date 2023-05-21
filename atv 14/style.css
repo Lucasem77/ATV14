@@ -1,0 +1,26 @@
+body{
+    pointer-events: auto ;
+    background-size: 100% ;
+    opacity: 0.90 ;
+    background-position: 0 0 ;
+    background-image: url(imagens/344.gif);
+    content: '';
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    background-repeat: no-repeat;
+    font-size: 100%;
+
+    }
+    
+h1{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+vídeo{
+    text-align: center;
+    margin:0px -10px 20px -10px;
+    padding: 5px;
+    padding-bottom: 40%;
+    position: relative;
+}
